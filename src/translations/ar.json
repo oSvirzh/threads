@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "about": "عن",
+    "app_name": "اسم التطبيق",
+    "arabic": "عربي",
+    "english": "إنجليزي",
+    "generale": "عام",
+    "language": "لغة",
+    "logout": "تسجيل خروج",
+    "theme": {
+      "dark": "مظلم",
+      "light": "ضوء",
+      "system": "نظام",
+      "title": "سمة"
+    },
+    "title": "إعدادات",
+    "version": "إصدار"
+  },
+  "add-post-form": {
+    "username": "اسم المستخدم",
+    "pick-avatar": "اختر الصورة الرمزية",
+    "email": "بريد إلكتروني",
+    "home-page": "الصفحة الرئيسية",
+    "text": "نص",
+    "submit": "أضف منشورا"
+  },
+  "sort-by": "ترتيب حسب",
+  "label-name": "اسم",
+  "label-email": "بريد إلكتروني",
+  "label-date": "تاريخ"
+}

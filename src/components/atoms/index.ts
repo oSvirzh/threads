@@ -1,0 +1,11 @@
+export * from './button';
+export * from './cover';
+export * from './image';
+export * from './input';
+export * from './input-error';
+export * from './input-label';
+export * from './text';
+export * from './user-avatar';
+export { InputErrorProps } from '@/components/atoms/input-error/input-error.types';
+export { avatarTv } from '@/components/atoms/user-avatar/user-avatar.styles';
+export { UserAvatarProps } from '@/components/atoms/user-avatar/user-avatar.types';

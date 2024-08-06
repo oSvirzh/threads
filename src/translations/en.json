@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "about": "About",
+    "app_name": "App Name",
+    "arabic": "Arabic",
+    "english": "English",
+    "generale": "General",
+    "language": "Language",
+    "logout": "Logout",
+    "theme": {
+      "dark": "Dark",
+      "light": "Light",
+      "system": "System",
+      "title": "Theme"
+    },
+    "title": "Settings",
+    "version": "Version"
+  },
+  "add-post-form": {
+    "username": "Username",
+    "pick-avatar": "Pick avatar",
+    "email": "Email",
+    "home-page": "Home Page",
+    "text": "Text",
+    "submit": "Add post"
+  },
+  "sort-by": "Sort By",
+  "label-name": "Name",
+  "label-email": "Email",
+  "label-date": "Date"
+}
